@@ -4,3 +4,21 @@ a {
     font-size: 20px;
     
 }
+
+h1  {
+    background: purple;
+    width: 440px;
+    padding: 10px;
+    border: 100px, solid, black;
+    margin: 40px;
+    height: auto;
+}
+
+div {
+    width: 440px;
+    padding: 10px;
+    border: 100px, solid, black;
+    margin: 40px;
+    height: auto;
+}
+
