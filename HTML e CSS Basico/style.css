@@ -1,24 +1,25 @@
-a { 
+body {
+    font-family: arial;
+}
+
+h1 {
+    text-align: center;
+    display: block;
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 6px;    
+
+}
+
+div {   
+    text-align: center;
+}
+
+a {
     text-decoration: none;
-    color: green;
-    font-size: 20px;
-    
-}
-
-h1  {
-    background: purple;
-    width: 440px;
+    background-color: yellowgreen;
     padding: 10px;
-    border: 100px, solid, black;
-    margin: 40px;
-    height: auto;
+    border-radius: 6px;
+    text-align: center;
+    margin: auto;
 }
-
-div {
-    width: 440px;
-    padding: 10px;
-    border: 100px, solid, black;
-    margin: 40px;
-    height: auto;
-}
-
